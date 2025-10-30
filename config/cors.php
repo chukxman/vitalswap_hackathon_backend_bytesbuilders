@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['*','http://localhost:5173/VitalSwap-Fee-Project','https://okfrank12.github.io/VitalSwap-Fee-Project/'],
+    'allowed_origins' => ['*','http://localhost:5173/VitalSwap-Fee-Project/','https://okfrank12.github.io/VitalSwap-Fee-Project/'],
 
     'allowed_origins_patterns' => [],
 
